@@ -1,0 +1,3 @@
+[submodule "app-laravel-auth"]
+	path = app-laravel-auth
+	url = https://github.com/username/app-laravel-auth.git
